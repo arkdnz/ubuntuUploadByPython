@@ -6,3 +6,8 @@
 * 启动 
   * 启动checkUpdown.py会一直启动上传程序，用来防止上传程序出错崩溃退出 
   * 启动__init__.py会遍历配置文件中的compress目录文件夹后上传
+
+* python依赖
+> ![ba0937ef6f3ccca85e2e0047e6263f3b4da37201](https://user-images.githubusercontent.com/36807895/130456184-caee4382-0621-4484-b7a4-6d0202dec91d.png)
+
+
